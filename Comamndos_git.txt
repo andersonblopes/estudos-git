@@ -1,11 +1,25 @@
-1 - git init
-	- Inicia versionamento de diretório
-2 - git add
-	- "." para todos ou "nome do arquivo" adiciona ao index local.
-	  versiona arquivo no diretorio de trabalho.
-3 - git rm --cached "nome do arquivo"
-	- para remover do próximo commit utilizado para arquivos que já foram adicionados(add).
-4 - git log
-	- lista todos os commits efetuados em ordem decrescente.
-5 - git commit -m ""
-	- versiona arquivos antes adicionados no index
+1	- git init
+		- Inicia versionamento de diretório
+2	- git add
+		- "." para todos ou "nome do arquivo" adiciona ao index local.
+		versiona arquivo no diretorio de trabalho.
+3	- git rm --cached "nome do arquivo"
+		- para remover do próximo commit utilizado para arquivos que já 
+		foram adicionados(add).
+4	- git log
+		- lista todos os commits efetuados em ordem decrescente.
+5	- git commit -m ""
+		- versiona arquivos antes adicionados no index.
+6	- git checkout -- <nome_do_arquivo>
+		- Reverter arquivo(Descartar alterações).
+7	- git commit -a -m ""
+	- executa passo 2 e 5.
+8	-  git config --list
+		- Lista configurações.
+9 	- git config --global user.email "anderson.lopes.2010@gmail.com"
+		- Define e-mail utilizado pelo git.
+10 	- git config --global user.name "Anderson Lopes"
+		- Define nome utilizado pelo git.
+11	- git rm --cached <nome_do_arquivo>
+		- Remove do index da área de trabalho.
+
