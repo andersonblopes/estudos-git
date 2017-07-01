@@ -22,4 +22,8 @@
 		- Define nome utilizado pelo git.
 11	- git rm --cached <nome_do_arquivo>
 		- Remove do index da área de trabalho.
-
+12	- git reset <código do commit>
+		- Volta versão do projeto para commit específico mas arquivos 
+		da versão em que estavam ficam como modificados aguardando commit.
+13	- git reset --hard <código do commit>
+		- Volta versão do projeto para commit específico subscrevendo arquivos.
