@@ -27,3 +27,9 @@
 		da versão em que estavam ficam como modificados aguardando commit.
 13	- git reset --hard <código do commit>
 		- Volta versão do projeto para commit específico subscrevendo arquivos.
+14	- git log --pretty=oneline
+		- Mostra log somente em uma linha.
+15	- git tag <descrição da etiqueta>
+		- Etiqueto commit atual.
+16	- git tag <descrição da etiqueta> <código do commit>
+		- Etiqueta determinado commit.
