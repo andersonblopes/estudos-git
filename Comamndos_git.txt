@@ -37,3 +37,6 @@
 		- Remove determinada etiqueta(tag).
 18	- git tag --list
 		- Lista todas as tags(etiquetas) existentes.
+19	- git checkout -b <nome da branche>
+		- Mudar de branch.
+20	- 
