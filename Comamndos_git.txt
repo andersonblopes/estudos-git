@@ -35,3 +35,5 @@
 		- Etiqueta determinado commit.
 17	- git tag -d <descrição da tag>
 		- Remove determinada etiqueta(tag).
+18	- git tag --list
+		- Lista todas as tags(etiquetas) existentes.
