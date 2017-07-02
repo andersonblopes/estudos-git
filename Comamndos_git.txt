@@ -33,3 +33,5 @@
 		- Etiqueto commit atual.
 16	- git tag <descrição da etiqueta> <código do commit>
 		- Etiqueta determinado commit.
+17	- git tag -d <descrição da tag>
+		- Remove determinada etiqueta(tag).
