@@ -4,4 +4,4 @@
 4 - Botafogo
 5 - Santos
 6 - Palmeiras
-7 - Vasco da Gama
+7 - Flamengo
