@@ -56,3 +56,8 @@
 25	- git reflog
 		- Mostra todo o histórico de commits já registrados. Isto possibilita
 		recuperar id de commits destruídos no caso de um rebase em uma branch.
+26	- git remote add <apelido do repositório(shortname)> <url do repositorio>
+		- Adiciona um repositório remoto.
+27	- git push -u <shortname> <nome da branche>
+		- Envia para o repositório remoto os commits não enviados 
+		existentes na branch. 
