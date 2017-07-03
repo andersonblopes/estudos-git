@@ -53,3 +53,6 @@
 24	- git rebase <nome da branch>
 		- Aplica os commits da branch de destino na branch em que estou 
 		sem gerar bifurcação entre commits(Mantem commits linear da branch atual).
+25	- git reflog
+		- Mostra todo o histórico de commits já registrados. Isto possibilita
+		recuperar id de commits destruídos no caso de um rebase em uma branch.
