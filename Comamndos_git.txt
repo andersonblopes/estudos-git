@@ -64,4 +64,8 @@
 28	- git clone <url do repositório>
 		- Baixa repositório existente na url.
 29	- git fetch <shortname>
-		- Baixa os commits do repositório remoto.
+		- Baixa os commits do repositório remoto sem incluir no 
+		diretório de trabalho.
+30	- git merge origin/master
+		- Traz os commits do repositório remoto(baixados com o fetch) para
+		a branch destino (shortname/branch_destino).
