@@ -69,3 +69,15 @@
 30	- git merge origin/master
 		- Traz os commits do repositório remoto(baixados com o fetch) para
 		a branch destino (shortname/branch_destino).
+31	- git pull
+		- executa os passos 29 e 30
+
+		
+===========================================
+SEQUENCIA IDEAL DE TRABALHO
+===========================================
+1 - git fetch: para sincronizar commits com os do repositório remoto.
+2 - git rebase/merge <shortname do repositorio remoto>/branche para onde quero mandar
+	os commits baixados.
+3 - Resolver conflitos, caso existam.
+4 - Iniciar trabalho.
