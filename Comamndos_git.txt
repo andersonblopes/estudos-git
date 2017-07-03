@@ -63,3 +63,5 @@
 		existentes na branch.
 28	- git clone <url do repositório>
 		- Baixa repositório existente na url.
+29	- git fetch <shortname>
+		- Baixa os commits do repositório remoto.
