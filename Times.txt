@@ -1,8 +1,7 @@
-1 - Cruzeiro
-2 - Gremio
-3 - Atlético - PR
-4 - Botafogo
-5 - Santos
-6 - Palmeiras
-7 - Flamengo
-8 - Ponte Preta
+1 - Cruzeiro	-	69
+2 - Gremio		-	67
+3 - Atlético-PR	-	51	
+4 - Botafogo	-	50
+5 - Santos		-	48
+6 - Palmeiras	-	47
+7 - Flamengo	-	43
