@@ -5,3 +5,4 @@
 5 - Santos		-	48
 6 - Palmeiras	-	47
 7 - Flamengo	-	43
+8 - São Paulo	-	42
