@@ -43,3 +43,7 @@
 		- Mudar de branch(sem criar a branch de destino caso ela não exista).
 21	- git branch
 		- Lista branchs existentes indicando a branch atual.
+22	- git branch -d <nome da branch>
+		- Remove branch se não houver alterações não mergeadas.
+22	- git branch -D <nome da branch>
+		- Remove branch mesmo se houver alterações não mergeadas.
