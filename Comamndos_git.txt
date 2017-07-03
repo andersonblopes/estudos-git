@@ -50,3 +50,4 @@
 23	- git merge <nome da branch>
 		- Trago todos os commits da branch indicada para o HEAD da branch 
 		em que estou.
+24	- 
