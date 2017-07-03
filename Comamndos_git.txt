@@ -39,4 +39,5 @@
 		- Lista todas as tags(etiquetas) existentes.
 19	- git checkout -b <nome da branch>
 		- Mudar de branch(Cria a branch de destino caso ela não exista).
-20	- 
+20	- git checkout <nome da branch>
+		- Mudar de branch(sem criar a branch de destino caso ela não exista).
