@@ -1,5 +1,5 @@
 1 - Cruzeiro	-	69
-2 - Gremio		-	67
+2 - Gremio		-	67 b1 Mexeu aqui
 3 - Atlético-PR	-	51	
 4 - Botafogo	-	50
 5 - Santos		-	48
