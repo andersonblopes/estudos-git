@@ -1,4 +1,4 @@
-1 - Cruzeiro	-	69
+1 - Cruzeiro	-	69 - Mudança mexeu aqui
 2 - Gremio		-	67  b1 Mexeu aqui
 3 - Atlético-PR	-	51	Master mexeu aqui
 4 - Botafogo	-	50
