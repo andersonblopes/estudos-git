@@ -60,4 +60,6 @@
 		- Adiciona um repositório remoto.
 27	- git push -u <shortname> <nome da branche>
 		- Envia para o repositório remoto os commits não enviados 
-		existentes na branch. 
+		existentes na branch.
+28	- git clone <url do repositório>
+		- Baixa repositório existente na url.
