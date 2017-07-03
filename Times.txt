@@ -3,3 +3,5 @@
 3 - Atlético - PR
 4 - Botafogo
 5 - Santos
+6 - Palmeiras
+7 - Vasco da Gama
