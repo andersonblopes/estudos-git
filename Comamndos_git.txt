@@ -69,8 +69,13 @@
 30	- git merge origin/master
 		- Traz os commits do repositório remoto(baixados com o fetch) para
 		a branch destino (shortname/branch_destino).
-31	- git pull
+31	- git rebase origin/master
+		- Traz os commits do repositório remoto(baixados com o fetch) para
+		a branch destino (shortname/branch_destino) matendo linha única de commits.		
+32	- git pull
 		- executa os passos 29 e 30
+33	- git push <shortname> <nome da branch que contém os commits a enviar> --tags
+		- Envia além da branch também as tagas existentes nela.
 
 		
 ===========================================
