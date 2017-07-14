@@ -76,6 +76,14 @@
 		- executa os passos 29 e 30
 33	- git push <shortname> <nome da branch que contém os commits a enviar> --tags
 		- Envia além da branch também as tagas existentes nela.
+34	- git show --stat COMMIT_ID
+		- Mostra itens de determinado commit
+35	- git log <arquivo>
+		- Mostra commits que alteraram determinado arquivo.
+36	- git reset <arquivo ou diretorio>
+		- desfaz modificações em arquivo não comitado.
+37	- git update-index --assume-unchanged <arquivo-ou-diretório>
+		- Atualiza arquivo no idex do repositorio.
 
 		
 ===========================================
