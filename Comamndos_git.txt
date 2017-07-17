@@ -84,6 +84,10 @@
 		- desfaz modificações em arquivo não comitado.
 37	- git update-index --assume-unchanged <arquivo-ou-diretório>
 		- Atualiza arquivo no idex do repositorio.
+38	- git push origin :<branch> (versões antigas do git)
+		- Remove branch do repositório remoto
+39	- git push origin --delete <branch>
+		- Remove branch do repositório remoto		
 
 		
 ===========================================
